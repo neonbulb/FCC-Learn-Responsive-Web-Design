@@ -1,2 +1,2 @@
-# FCC-Learn-Responsive-Web-Design-HTML-And-CSS
+# FCC-Learn-Responsive-Web-Design
 Learning Responsive Web Design, HTML, and CSS on freeCodeCamp.
